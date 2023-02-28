@@ -36,8 +36,8 @@ main{
 /* button  */
 .button{
     padding-top: 20px;
-    padding-left: 40px;
     border-radius: 20%;
+   
 }
 
 .task{
@@ -54,4 +54,12 @@ main{
     color: rgba(59, 59, 59, 0.3);
     background-color: white;
 
+}
+
+main{
+    padding-left: 40px;
+}
+
+section{
+    padding-top: 20px;
 }
