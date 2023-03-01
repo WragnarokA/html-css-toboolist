@@ -1,5 +1,7 @@
 *{
     box-sizing: border-box;
+    font-family: Arial, Helvetica, sans-serif;
+    
 }
 
 /* logo  */
@@ -9,18 +11,33 @@ background-color: rgba(114, 118, 114, 0.073);
 
 .logo{
     width: 100%;
-    height: 75px;
+    height: 65px;
     background-color:white;
-    display:block;
-    padding-top: 10px;
-}
+    padding-top: 5px;
     
+   
+}
+   
+
+.titoloimg{
+    vertical-align: middle;
+    
+}
+
 
 .titolo{
     color: rgb(2,23,50);
-    padding-bottom: 10%;
-    font-size: 50px;
+    vertical-align: middle;
+    font-size: 40px;
+   
+
+   
 }
+    
+   
+    
+    
+
 
    
 /* container  */
@@ -57,7 +74,7 @@ section{
     background-color: #47ACF1;
     width: 100px;
     height: 40px;
-    
+    cursor: pointer;
 }
 
 .add2{
@@ -68,6 +85,7 @@ section{
     background-color: white;
     width: 150px;
     height: 40px;
+    cursor: pointer;
 }
 hr{
     border-color:  rgba(114, 118, 114, 0.073);
@@ -80,17 +98,35 @@ hr{
 /* primo paragrafo */
 
 .check{
+    width: 20px;
+    height: 20px;
+    display: inline-block;
     border: solid 1px #64C0A9;
     border-radius: 50%;
+    text-align: center;
+    font-size: 15px;
+}
+
+.x{
+    width: 20px;
+    height: 20px;
+    display: inline-block;
+    border: solid 1px red;
+    border-radius: 50%;
+    text-align: center;
+    font-size: 15px; 
 }
 
 .editorial{
+    display: inline-block;
     border-radius: 5px;
     color: white;
-    font-size: 15px;
+    font-size: 13px;
     background-color: #47ACF1;
-    width: 50%;
-    height: 40px;
+    width: 70px;
+    height: 25px;
+
+ 
 }
 .q1{
     border-radius: 5px;
