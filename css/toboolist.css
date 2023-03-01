@@ -30,36 +30,114 @@ main{
     margin: 30px auto;
     border-radius: 5px;
 }
+
+
+section{
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-left: 40px;
+}
  
 
 
 /* button  */
 .button{
-    padding-top: 20px;
-    border-radius: 20%;
-   
+    padding-top: 25px;
+    padding-bottom: 5px;
+    
 }
+ 
+   
 
-.task{
+.add1{
     border-radius: 5px;
     border-color:transparent;
     color: white;
+    font-size: 17px;
     background-color: #47ACF1;
+    width: 100px;
+    height: 40px;
+    
 }
 
-.section{
-   
+.add2{
     border-radius: 5px;
     border-color: rgba(59, 59, 59, 0.3);
     color: rgba(59, 59, 59, 0.3);
+    font-size: 17px;
     background-color: white;
+    width: 150px;
+    height: 40px;
+}
+hr{
+    border-color:  rgba(114, 118, 114, 0.073);
+    color: transparent;
+}    
 
+/* fine button */
+
+
+/* primo paragrafo */
+
+.check{
+    border: solid 1px #64C0A9;
+    border-radius: 50%;
 }
 
-main{
-    padding-left: 40px;
+.editorial{
+    border-radius: 5px;
+    color: white;
+    font-size: 15px;
+    background-color: #47ACF1;
+    width: 50%;
+    height: 40px;
+}
+.q1{
+    border-radius: 5px;
+    color: white;
+    font-size: 15px;
+    background-color: #be47f1;
+}
+ 
+.recluti{
+    border-radius: 5px;
+    color: white;
+    font-size: 15px;
+    background-color: #64C0A9;
+}
+ 
+.mobile{
+    border-radius: 5px;
+    color: white;
+    font-size: 15px;
+    background-color: orange;
 }
 
-section{
-    padding-top: 20px;
+.web{
+    border-radius: 5px;
+    color: white;
+    font-size: 15px;
+    background-color:#CC54AA;
 }
+.sales{
+    border-radius: 5px;
+    color: white;
+    font-size: 15px;
+    background-color:green;
+}
+
+span{
+    font-size: 20px;
+}
+
+    
+  
+
+    
+
+
+
+
+
+
+
