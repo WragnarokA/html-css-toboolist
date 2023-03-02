@@ -53,6 +53,7 @@ section{
     padding-top: 20px;
     padding-bottom: 20px;
     padding-left: 40px;
+   
 }
  
 
@@ -118,16 +119,20 @@ hr{
 }
 
 .editorial{
+   
     display: inline-block;
     border-radius: 5px;
+    text-align: center;
     color: white;
     font-size: 13px;
     background-color: #47ACF1;
-    width: 70px;
-    height: 25px;
+  
+    
 
+    
  
 }
+
 .q1{
     border-radius: 5px;
     color: white;
